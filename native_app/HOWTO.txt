@@ -1,0 +1,4 @@
+Create a dynamic library called mynativefunction from this. Copy it to the run directory of the app.
+
+i.e.
+cl.exe nativefunction.c /LD
