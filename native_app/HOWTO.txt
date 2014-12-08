@@ -1,4 +1,8 @@
 Create a dynamic library called mynativefunction from this. Copy it to the run directory of the app.
 
-i.e.
+Windows in a Developer Prompt:
 cl.exe nativefunction.c /LD
+
+Mac:
+clang -dynamiclib -current_version 1.0 -compatibility_version 1.0 mynativefunction.c -m32 -o mynativefunction.dylib
+
