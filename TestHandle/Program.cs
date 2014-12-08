@@ -32,7 +32,7 @@ namespace TestHandle
 
 	class MainClass
 	{
-		[DllImport("mynativefunction.dll")]
+		[DllImport("mynativefunction")]
 		static extern void alloc_test(out SafeHandleTest sht);
 
 		static void TryCreateSafeHandle()

@@ -1,0 +1,6 @@
+/Users/therzok/Projects/TestSafeHandle/TestHandle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/therzok/Projects/TestSafeHandle/TestHandle/bin/Debug/TestHandle.exe.mdb
+/Users/therzok/Projects/TestSafeHandle/TestHandle/bin/Debug/TestHandle.exe
+/Users/therzok/Projects/TestSafeHandle/TestHandle/obj/x86/Debug/TestHandle.exe
+/Users/therzok/Projects/TestSafeHandle/TestHandle/obj/x86/Debug/TestHandle.exe.mdb
+/Users/therzok/Projects/TestSafeHandle/TestHandle/bin/Debug/TestHandle.exe.config
